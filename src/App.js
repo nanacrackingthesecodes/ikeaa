@@ -1,6 +1,6 @@
 import Catalog from "./components/Catalog.js";
 import Ideas from "./components/Ideas.js";
-import InfoSection from "./components/InfoSection.js";
+import InfoSection from "./components/Important";
 
 
 function App() {
