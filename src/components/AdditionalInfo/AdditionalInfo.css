@@ -1,27 +1,27 @@
-.info {
+.adinfo {
     margin-top: 100px;
   }
   
-  .info-title {
+  .adinfo-title {
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 24px;
   }
   
-  .info-wrapper {
+  .adinfo-wrapper {
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 24px;
   }
   
-  .info-image img {
+  .adinfo-image img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 16px;
   }
   
-  .info-card {
+  .adinfo-card {
     background: #e9e9e9;
     border-radius: 16px;
     padding: 40px;
@@ -35,7 +35,7 @@
     margin-bottom: 12px;
   }
   
-  .info-card p {
+  .adinfo-card p {
     font-size: 14px;
     line-height: 1.6;
   }
