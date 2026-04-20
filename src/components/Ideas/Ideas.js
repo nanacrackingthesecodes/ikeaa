@@ -2,12 +2,12 @@ import "./Ideas.css";
 
 function Ideas() {
   const images = [
-    "/img/ideas1.jpg",
-    "/img/ideas2.jpg",
-    "/img/ideas3.jpg",
-    "/img/ideas4.jpg",
-    "/img/ideas5.jpg",
-    "/img/ideas6.jpg",
+    "/ideas1.jpg",
+    "/ideas2.jpg",
+    "/ideas3.jpg",
+    "/ideas4.jpg",
+    "/ideas5.jpg",
+    "/ideas6.jpg",
   ];
 
   return (
